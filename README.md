@@ -31,7 +31,7 @@
 3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
 4.  ***Deploy on [Heroku](https://secktorbot.tech/heroku)***
 
-5. ***[Deploy on Koyeb](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/abhiru-dhachu/Rudhra-test&branch=main&env[SESSION_ID]=&env[OWNER_NUMBER]=&env[MONGODB_URI]=&env[OWNER_NAME]=&env[PREFIX]=.&env[THUMB_IMAGE]=https://i.imgur.com/fovzvF2.jpeg&env[email]=princerudh.in@gmail.com&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=No-Bad-Word-Add-If-You-Want-fuck&env[WORKTYPE]=public&env[THEME]=SECKTOR&env[PACK_INFO]=Ʀᴜᴅʜʀλ;ᴘʀɪɴᴄᴇ ʀᴜᴅʜ&name=rudhrabot&env[KOYEB_NAME]=princerudh3&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)***
+5. ***[Deploy on Koyeb](https://secktorbot.me/koyeb)***
 
 6.  ***[Deploy on Railway](https://secktorbot.tech/railway)***
   
