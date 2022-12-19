@@ -3,21 +3,21 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split(",")
-global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
+global.owner = process.env.OWNER_NUMBER.split("919605101516,")
+global.mongodb = process.env.MONGODB_URI || "mongodb://mongo:jnZKWAIQDB0vYnCkJjiV@containers-us-west-122.railway.app:6663"
 global.port= process.env.PORT || 5000
-global.email = 'sam@secktor.live'
-global.github = 'https://github.com/SamPandey001/Secktor-Md'
+global.email = 'abhiramaj7@gmail.com'
+global.github = 'https://github.com/Princerudh/Rudhra-md'
 global.location = 'Sultanpur IN'
-global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '919628516236'
-global.devs = '919628516236';
-global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+91000000000000
+global.gurl = 'https://instagram.com/abhiram_aj_07' // add your username
+global.sudo = process.env.SUDO || '919605101516'
+global.devs = '919605101516';
+global.website = 'https://github.com/Princerudh/Rudhra-md' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
-  botname: process.env.BOT_NAME || '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨',
-  ownername:process.env.OWNER_NAME || 'SamPandey001',
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  botname: process.env.BOT_NAME || 'Rudhra-md',
+  ownername:process.env.OWNER_NAME || 'princerudh',
+  sessionName: process.env.SESSION_ID || 'Secktor;;;LedgerBleeder',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
   packname: process.env.PACK_INFO.split(";")[1] || 'Name',
@@ -37,7 +37,7 @@ module.exports = {
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || 'put-key-here',
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
   LANG: process.env.THEME|| 'SECKTOR',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+  WORKTYPE: process.env.WORKTYPE === undefined ? 'Private' : process.env.WORKTYPE
 };
 
 
